@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoddingChallenge", "CoddingChallenge.csproj", "{5416FADB-DD9A-4D59-92A1-727C5FF662CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5416FADB-DD9A-4D59-92A1-727C5FF662CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5416FADB-DD9A-4D59-92A1-727C5FF662CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5416FADB-DD9A-4D59-92A1-727C5FF662CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5416FADB-DD9A-4D59-92A1-727C5FF662CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED69088-4DD2-4F94-B3C7-FECC042C2161}
+	EndGlobalSection
+EndGlobal
